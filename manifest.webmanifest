@@ -1,0 +1,25 @@
+{
+  "id": "/holynk/",
+  "name": "Holynk",
+  "short_name": "Holynk",
+  "description": "Holynk, plateforme immobilière",
+  "start_url": "/holynk/",
+  "scope": "/holynk/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d84316",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
